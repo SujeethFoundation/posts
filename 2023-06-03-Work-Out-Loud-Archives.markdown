@@ -2,7 +2,7 @@
 layout: post
 title:  "The Work Out Loud Archives"
 date:   2023-06-03 00:00:00 -0600
-categories: [announcements]
+categories: [career]
 excerpt: "The Sujeeth Foundation is committed to enriching the experience of every scholarship applicant by focusing on mindset, grit, and working out loud. We aim to facilitate community building among the applicants. To support this vision, I have gathered John Stepper's WOL guides, which provide a structured approach for individuals to implement the WOL practice. These guides span a twelve-week period and cover various aspects of building relationships, making contributions, refining communication, improving visibility, articulating a vision, developing habits, and expanding one's network."
 ---
 Every day we're making a lot of progress to launching the scholarship.  In addition to providing funds, one of the goals of the foundation is to enrich the experience of every applicant.  To that end, welcome gifts, volunteering opportunities, community meetups and even the application for the scholarship itself -- they are all targeted to help applicants build skills in Mindset, Grit, and Working Out Loud.  
