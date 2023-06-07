@@ -19,7 +19,7 @@ While preparing for the launch of the programs portal, I completed a scholarship
 
 I decided to deeply explore a the "systems analyst" job suggestions to get ideas of what the job entails and how I could potentially prepare for the interview.  I learned that I could prepare through online courses at Coursera and edX, that Accenture may be a company willing to hire a business major, and that I should explore a student membership with the Association for Information Systems.  Along the way, I also got information that would help me prepare for informational interviews like "can I be system analyst if I don't know how to program?".  
 
-It strikes me that if I'm curious a short conversation can provide a lot of information that can make it easier to interact with the outside world.  At least it gives me a start.  I'm sharing to provide some inspiration of how others can use Generative AI to get more out of the feedback provided by the scholarship process.  You can see the full conversation; below I'm sharing the questions I asked and my motivation.
+It strikes me that if I'm curious a short conversation can provide a lot of information that can make it easier to interact with the outside world.  At least it gives me a start.  I'm sharing to provide some inspiration of how others can use Generative AI to get more out of the feedback provided by the scholarship process.  You can see the [full conversation](https://chat.openai.com/share/7563a68b-e271-4d88-800f-bdd590b0a998); below I'm sharing the questions I asked and my motivation.
 
 - What does the career trajectory for system analyst look like over ten years?
 > I like understanding the end game.  Starting with the end mind helps me envision if this is a path I want to invest in.
